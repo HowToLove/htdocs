@@ -1,0 +1,16 @@
+body{
+	width:1000px;
+	margin:0 auto;
+	font-family: 微软雅黑;
+}
+a{
+	color: #333;
+}
+a:hover, a:focus{
+	color: #000;
+	text-decoration: underline;
+}
+img{
+	max-height: 100%;
+	max-width: 100%;
+}

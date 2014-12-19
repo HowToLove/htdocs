@@ -1,0 +1,17 @@
+#header{
+	padding:20px;
+	text-align: center;
+}
+#form .control-label{
+	width: 45px;
+}
+#form .controls{
+	margin-left: 60px;
+}
+#form-headline{}
+#form-content{}
+#form-submit{
+	text-align: center;
+	width: 200px;
+	margin: 0 auto 20px;
+}

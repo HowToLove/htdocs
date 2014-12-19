@@ -1,0 +1,18 @@
+#header{
+	padding:20px;
+	text-align: center;
+	border-bottom: 1px solid #aaa;
+	margin-bottom: 20px;
+}
+#nav-list{
+	display: none;
+}
+.table-edit,.table-delete{
+	cursor: pointer;
+	width: 20px;
+	padding-top: 5px;
+}
+#release{
+	width: 704px;
+	margin-bottom: 10px;
+}
